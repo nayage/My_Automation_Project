@@ -1,1 +1,2 @@
-# My_Automation_Project
+My First Repository on GitHub
+
